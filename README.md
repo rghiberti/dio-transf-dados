@@ -65,6 +65,6 @@ Nesse caso, como o objetivo é juntar colunas, a opção Mesclar é a que atende
 15.	Agrupe os dados a fim de saber quantos colaboradores existem por gerente
 Resultado em relatório do Power BI
 
-16.	Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
-Eliminadas
+16.	Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela.
+Foram eliminadas.
 
